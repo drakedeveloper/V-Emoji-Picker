@@ -20,11 +20,7 @@
         "./sfc": "src/VEmojiPicker.vue"
     },
     "typings": "./lib/index.d.ts",
-    "files": [
-        "lib/*",
-        "src/*",
-        "Readme.md"
-    ],
+    
     "dependencies": {
         "vue-class-component": "^7.2.3",
         "vue-property-decorator": "^8.4.1"
